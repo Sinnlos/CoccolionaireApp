@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CocollionaireApp.Android", "CocollionaireApp\CocollionaireApp.Android\CocollionaireApp.Android.csproj", "{A1BFB3AB-5625-41F3-8229-D289AEA48439}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "CocollionaireApp", "CocollionaireApp\CocollionaireApp\CocollionaireApp.shproj", "{D6252D16-5420-4336-870E-2F2E5CB99FFC}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		CocollionaireApp\CocollionaireApp\CocollionaireApp.projitems*{a1bfb3ab-5625-41f3-8229-d289aea48439}*SharedItemsImports = 4
+		CocollionaireApp\CocollionaireApp\CocollionaireApp.projitems*{d6252d16-5420-4336-870e-2f2e5cb99ffc}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1BFB3AB-5625-41F3-8229-D289AEA48439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BFB3AB-5625-41F3-8229-D289AEA48439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BFB3AB-5625-41F3-8229-D289AEA48439}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A1BFB3AB-5625-41F3-8229-D289AEA48439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BFB3AB-5625-41F3-8229-D289AEA48439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1BFB3AB-5625-41F3-8229-D289AEA48439}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72DA8277-FA0C-401B-B0E9-57F125A11894}
+	EndGlobalSection
+EndGlobal
